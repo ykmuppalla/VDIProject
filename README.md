@@ -57,7 +57,7 @@ Terminates a session.
 
 ## Running the Application
 
-### Using Docker (Recommended)
+### Using Docker
 
 ```bash
 # Build and run with docker-compose
