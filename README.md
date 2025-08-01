@@ -10,7 +10,7 @@ A RESTful API for managing Virtual Desktop Infrastructure (VDI) sessions.
 - Thread-safe session management
 - Comprehensive unit tests
 - Containerized deployment with Docker
-- Production-ready configuration
+
 
 ## API Endpoints
 
